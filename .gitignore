@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg-info/
+*.egg
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+*.env
+
+# Environment variables and secrets
+.env
+.env.*
+
+# VSCode / IDE configs
+.vscode/
+.idea/
+*.swp
+
+# MyPy / Pylint / Pyright
+.mypy_cache/
+.pyright/
+.pytest_cache/
+.dmypy.json
+
+# Unit test cache
+.pytest_cache/
+.tox/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+test-results.xml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac/Linux/Windows OS files
+.DS_Store
+Thumbs.db
+
+# Uvicorn/Starlette logs (optional)
+*.log
+
+# Pip tools
+pip-log.txt
+pip-delete-this-directory.txt
+
+# SQLite (if using)
+*.sqlite3
+*.db
+
+# Build artifacts
+build/
+dist/
+*.tar.gz
+*.egg-info/
+
+# Node (if using frontend)
+node_modules/
+npm-debug.log
+
+# Docker
+*.pid
+docker-compose.override.yml
+__pycache__/
