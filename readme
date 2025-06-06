@@ -1,0 +1,6 @@
+cd backend
+uvicorn src.main:app --reload
+---
+
+cd frontend
+npm run dev
