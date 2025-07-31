@@ -1,0 +1,13 @@
+cd backend
+uvicorn src.main:app --reload
+---
+
+cd frontend
+npm run dev
+
+
+![img](img/img1.png)
+
+![img](img/img2.png)
+
+
