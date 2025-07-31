@@ -8,4 +8,6 @@ npm run dev
 
 ![img](img/img1.png)
 
-![img](img2.png)
+![img](img/img2.png)
+
+
